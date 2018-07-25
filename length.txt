@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<conio.h>
+#include<string.h>
+#include<stdio.h>
+void main()
+{
+  int len;
+char str[20];
+cout<<"enter the string";
+gets(str);
+{
+ len=strlen(str);
+}
+cout<<"the lenght is "<<len;
+getch();
+}
